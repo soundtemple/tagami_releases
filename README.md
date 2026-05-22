@@ -1,5 +1,5 @@
 # tagami_releases
-Download the latest version of Tagami.
+[Download the latest version of Tagami](https://github.com/soundtemple/tagami_releases/blob/main/tagami.zip)
 
 Tagami helps DJs, crate diggers, and playlist perfectionists organise their music libraries so they can find the right tune, at the right time.
 
