@@ -11,4 +11,4 @@ Tagami helps DJs, crate diggers, and playlist perfectionists organise their musi
 - Spend less time organising and more time in the mix
 - Cross-platform support for Mac & Windows
 
-Learn more at [tagami.au](https://github.com/soundtemple/tagami_releases/raw/main/tagami.zip](https://tagami.au/) 
+Learn more at [tagami.au](https://tagami.au/) 
